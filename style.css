@@ -39,6 +39,16 @@ button {
   cursor: pointer;
   font-size: 16px;
 }
+.sendmesssages{
+   width: 20%;
+  background-color: #4CAF50;
+  color: white;
+  border: none;
+  border-radius: 8px;
+  padding: 10px;
+  cursor: pointer;
+}
+
 
 button:hover {
   background-color: #45a049;
